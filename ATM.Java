@@ -2,7 +2,7 @@ import java.util.*;
 public class Main{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
-        System.out.println("WELCOME TO ATM");
+        System.out.println("----WELCOME TO ATM----");
         System.out.println("1.ADMIN");
         System.out.println("2.USER");
         System.out.println("3.EXIT");
